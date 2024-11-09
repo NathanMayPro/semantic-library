@@ -1,0 +1,1 @@
+# Models removed - using resource_api models instead
